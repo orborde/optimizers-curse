@@ -1,6 +1,6 @@
 There is a box (or rather, many boxes) containing 1d10 dollar
-bills. There is a label on the box with the number (number of dollars
-in the box)+1d10 on it.
+bills. There is a label on the box with the number ((number of dollars
+in the box)+1d9 - 5) on it.
 
 If you have many boxes so labeled, picking the one with the largest
 number on its label will tend to get you a box with a large divergence
